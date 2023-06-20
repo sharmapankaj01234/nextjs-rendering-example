@@ -1,0 +1,12 @@
+{
+    "blogs": [
+        {
+            "title": "First blog",
+            "description": "Sample 1"
+        },
+        {
+            "title": "Second blog",
+            "description": "Sample 2"
+        }
+    ]
+}
